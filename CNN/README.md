@@ -4,7 +4,9 @@ CNN implementation using theano. Learned parameters in each layer is Pickled and
 CNN specification
 =====================
 Activation function : RELU
+
 Pooling : Max-pooling
+
 Classifier : Softmax classifier
 
 
